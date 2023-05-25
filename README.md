@@ -24,8 +24,8 @@ Interesting AR physical product showcase for an exposition company - made with 8
 AR 3D model placement experience with animation | using 8th Wall + AFRAME
   </p>
   
-![ezgif com-optimize](https://user-images.githubusercontent.com/40408965/234306836-5eb4eb24-df85-4dd2-86ea-c15d6ecfd502.gif)
 
+![ezgif com-optimize-3](https://github.com/victorcappa/expo-floor/assets/40408965/0b3ee884-4c07-4cd8-965c-98ca3f852563)
 
 </div>
 
