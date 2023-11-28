@@ -5,9 +5,6 @@ Interesting AR physical product showcase for an exposition company - made with 8
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<h2>Client</h2>
-<p><b>StudioMollie - Belgium </b></p>
-
 
 <!-- PROJECT LOGO -->
  
